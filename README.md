@@ -1,4 +1,4 @@
-<# 👋🏻 Selam!
+# 👋🏻 Selam!
 Ben Ulus Xii, İstanbul'da yaşıyorum. Kod yazmaktan ve yeni bir şeyler keşfetmekten oldukça keyif alıyorum.
 ## Çoğunluklukla kullandığım diller ve kütüphaneler :
 * 📱 REACT
