@@ -1,4 +1,4 @@
-# 👋🏻 Selam!
+<# 👋🏻 Selam!
 Ben Ulus Xii, İstanbul'da yaşıyorum. Kod yazmaktan ve yeni bir şeyler keşfetmekten oldukça keyif alıyorum.
 ## Çoğunluklukla kullandığım diller ve kütüphaneler :
 * 📱 REACT
@@ -6,7 +6,11 @@ Ben Ulus Xii, İstanbul'da yaşıyorum. Kod yazmaktan ve yeni bir şeyler keşfe
 * 🌐 PHP
 * 📜 MYSQL
 ## Sosyal Medyalarım :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UlusXii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/UlusXii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/UlusXii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/648424230081265664)  
+<a href="https://discord.com/users/648424230081265664" target="blank_"> https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white </a>
+<a href="https://github.com/UlusXii/" target="blank_">https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white</a>
+<a href="https://instagram.com/UlusXii" target="blank_">https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white </a>
+<a href="https://twitter.com/UlusXii" target="blank_"> https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white</a>
+
 ## Github İstatistiklerim :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UlusXii&show_icons=true) 
 ![GitHub metrics](https://metrics.lecoq.io/UlusXii)  
